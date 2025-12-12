@@ -48,4 +48,15 @@ A simple React web application that guides users through a short breathing exerc
 4. Open the browser at: 
     http://localhost:5173
 
+# References 
+
+- React Documentation: https://react.dev  
+- Vite Documentation: https://vitejs.dev  
+- W3Schools
+- https://developer.mozilla.org/en-US/
+
+AI tools were used as learning and debugging aids during development:
+- ChatGPT was used to help debug logic issues, clarify React concepts, and check application functionality.
+- Claude was used to provide suggestions for improving the user interface, particularly in refining the colour scheme and visual clarity.
+
 
